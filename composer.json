@@ -1,0 +1,12 @@
+{
+    "name": "nikki/apache-test",
+    "authors": [
+        {
+            "name": "Nikki",
+            "email": "oooze84@mail.ru"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^6.0"
+    }
+}

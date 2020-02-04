@@ -1,0 +1,30 @@
+WHO CATCH - [INDEX INTERNAL ERROR] 
+ TIME - 2020-02-03 23:22:21 
+ TYPE - 553 
+ MESSAGE - Expected response code 250 but got code "553", with message "553 5.7.1 Sender address rejected: not owned by auth user.
+" 
+ FILE - /home/nikki/Documents/Symfony/ApacheTest/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php 
+ LINE - 457 
+ 	 ----------------------------- 
+WHO CATCH - [INDEX INTERNAL ERROR] 
+ TIME - 2020-02-03 23:23:02 
+ TYPE - 553 
+ MESSAGE - Expected response code 250 but got code "553", with message "553 5.7.1 Sender address rejected: not owned by auth user.
+" 
+ FILE - /home/nikki/Documents/Symfony/ApacheTest/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php 
+ LINE - 457 
+ 	 ----------------------------- 
+WHO CATCH - [INDEX INTERNAL ERROR] 
+ TIME - 2020-02-03 23:53:49 
+ TYPE - 0 
+ MESSAGE - Connection to tcp://smtp.mail.ru:465 Timed Out 
+ FILE - /home/nikki/Documents/Symfony/ApacheTest/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php 
+ LINE - 473 
+ 	 ----------------------------- 
+WHO CATCH - [INDEX NOT FOUND] 
+ TIME - 2020-02-04 16:47:18 
+ TYPE - 0 
+ MESSAGE - Not found route with name - /hell 
+ FILE - /home/nikki/Documents/Symfony/ApacheTest/public/index.php 
+ LINE - 21 
+ 	 ----------------------------- 
